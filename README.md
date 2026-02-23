@@ -4,7 +4,8 @@ My portfolio
 front end development internship using 
 html,css and javascript
 
-#tools used
+# TOOLS USED
+
   •html
   •css
   •javascript
